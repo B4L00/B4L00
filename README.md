@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ludovic
 - 👀 I’m interested in programming & cybersecurity
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm studying in Paris 42 school
 
 <!---
 B4L00/B4L00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
