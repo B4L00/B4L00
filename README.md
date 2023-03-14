@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ludovic
-- 👀 I’m interested in programming, cybersecurity & sysadmin
+- 👀 I’m interested in programming, cybersecurity, sysadmin & networking
 - 🌱 I’m currently learning C language
 - 🎓 I'm studying in Paris's 42 school
 
