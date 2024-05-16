@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ludovic
-- 👀 I’m interested in programming, cybersecurity, sysadmin & networking
-- 🌱 I’m currently learning C++ language
+- 👀 I’m interested in cybersecurity, networking, sysadmin & programming
+- 🌱 I’m currently learning Docker
 - 🎓 I'm studying in Paris's 42 school
-- :briefcase: Learned : C
+- :briefcase: Learned : C, C++
 
 <!---
 B4L00/B4L00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
